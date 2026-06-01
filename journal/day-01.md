@@ -9,3 +9,6 @@ Things I learned the words for:
 - **GitHub** = a website that stores my snapshots and shows my progress
 
 Next: keep showing up. 🟩
+
+I came back same day to practice. The loop already feels less scary.
+June 01st 2026.
