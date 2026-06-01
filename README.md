@@ -1,16 +1,17 @@
-# systems-playground
+# My Learning Journal 📓
 
-Hands-on experiments for building intuition about how computers actually work,
-written in Rust. Each experiment is a small, runnable program that lets you
-*see* what the machine is doing — real memory addresses, byte layouts, and more.
+This is where I learn how computers work, one small step at a time, starting
+from absolutely zero.
 
-## Experiments
+I'm a complete beginner. The plan is simple:
 
-1. **Where does my data live?** — stack vs. heap, addresses, type sizes, struct
-   padding & alignment. (`src/main.rs`)
+- **Learn a little something most days.**
+- **Write it down** in the `journal/` folder (one file per day).
+- **Save a snapshot** (a "commit") and upload it here.
+- **Watch the green squares grow.** 🟩🟩🟩
 
-## Running
+Progress, not perfection. Showing up beats being fast.
 
-```sh
-cargo run
-```
+---
+
+👉 New here? Open **GUIDE.md** — it's the cheat-sheet for the daily routine.
