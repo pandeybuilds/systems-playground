@@ -12,3 +12,6 @@ Next: keep showing up. 🟩
 
 I came back same day to practice. The loop already feels less scary.
 June 01st 2026.
+
+I learned that the "#" and "-" symbols are called Markdown.
+
